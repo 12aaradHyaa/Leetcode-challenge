@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0283-move-zeroes) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
