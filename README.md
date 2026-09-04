@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [1789-primary-department-for-each-employee](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
