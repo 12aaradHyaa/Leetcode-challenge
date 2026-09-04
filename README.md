@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0242-valid-anagram) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0242-valid-anagram) |
@@ -105,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1789-primary-department-for-each-employee](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1789-primary-department-for-each-employee) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
