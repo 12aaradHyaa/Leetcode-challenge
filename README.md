@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1341-movie-rating](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1341-movie-rating) |
 | [1789-primary-department-for-each-employee](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1978-employees-whose-manager-left-the-company) |
