@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0610-triangle-judgement) |
