@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0940-distinct-subsequences-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0940-distinct-subsequences-ii) |
 ## Prefix Sum
 |  |
 | ------- |
