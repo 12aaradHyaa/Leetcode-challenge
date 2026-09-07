@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1341-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1667-fix-names-in-a-table) |
 | [1789-primary-department-for-each-employee](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1789-primary-department-for-each-employee) |
