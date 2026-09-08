@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
+| [3870-count-commas-in-range](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
