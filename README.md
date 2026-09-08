@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0940-distinct-subsequences-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1796-second-largest-digit-in-a-string) |
 ## Two Pointers
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3904-smallest-stable-index-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
