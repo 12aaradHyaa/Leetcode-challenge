@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3904-smallest-stable-index-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1796-second-largest-digit-in-a-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
