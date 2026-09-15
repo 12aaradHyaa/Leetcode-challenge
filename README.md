@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0088-merge-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0125-valid-palindrome) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
