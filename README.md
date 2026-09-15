@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0940-distinct-subsequences-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1796-second-largest-digit-in-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
