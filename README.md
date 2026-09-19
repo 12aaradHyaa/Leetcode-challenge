@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0876-middle-of-the-linked-list) |
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
