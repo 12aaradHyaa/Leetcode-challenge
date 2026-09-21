@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0115-distinct-subsequences) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Database
