@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
 | [0977-squares-of-a-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
+| [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -327,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
