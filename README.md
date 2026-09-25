@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0125-valid-palindrome) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
