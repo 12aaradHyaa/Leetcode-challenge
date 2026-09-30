@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0836-rectangle-overlap) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Manacher
 |  |
