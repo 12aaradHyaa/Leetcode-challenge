@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0836-rectangle-overlap) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
