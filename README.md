@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -307,15 +308,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
