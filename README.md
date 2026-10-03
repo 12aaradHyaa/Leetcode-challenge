@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0069-sqrtx) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Design
 |  |
