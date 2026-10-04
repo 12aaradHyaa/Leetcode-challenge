@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0835-image-overlap) |
 ## Geometry
