@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0042-trapping-rain-water) |
+| [0059-spiral-matrix-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0088-merge-sorted-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0835-image-overlap) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Manacher
