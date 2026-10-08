@@ -342,12 +342,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
