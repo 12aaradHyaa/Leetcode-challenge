@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0678-valid-parenthesis-string) |
