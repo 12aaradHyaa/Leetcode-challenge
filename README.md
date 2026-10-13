@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0561-array-partition) |
 | [0835-image-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0835-image-overlap) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
 | [0977-squares-of-a-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0561-array-partition) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
 | [0977-squares-of-a-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -494,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2333-minimum-sum-of-squared-difference) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
