@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0835-image-overlap) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0389-find-the-difference) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0856-score-of-parentheses) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
