@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0835-image-overlap) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
 | [0977-squares-of-a-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Database
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
