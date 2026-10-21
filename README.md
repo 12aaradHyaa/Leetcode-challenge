@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0101-symmetric-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
