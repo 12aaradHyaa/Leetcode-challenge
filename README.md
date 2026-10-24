@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0856-score-of-parentheses) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
