@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0389-find-the-difference) |
