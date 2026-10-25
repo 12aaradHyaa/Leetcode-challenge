@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0835-image-overlap) |
 | [0937-reorder-data-in-log-files](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0937-reorder-data-in-log-files) |
 | [0977-squares-of-a-sorted-array](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1254-number-of-closed-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1254-number-of-closed-islands) |
 ## Geometry
 |  |
 | ------- |
@@ -553,10 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Segment Tree
 |  |
