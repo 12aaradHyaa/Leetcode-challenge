@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -658,4 +659,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/12aaradHyaa/Leetcode-challenge/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
